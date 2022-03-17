@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoxStateChallenge/static/css/main.814f8fb0.css",
+    "main.js": "/BoxStateChallenge/static/js/main.e346aab5.js",
+    "index.html": "/BoxStateChallenge/index.html",
+    "main.814f8fb0.css.map": "/BoxStateChallenge/static/css/main.814f8fb0.css.map",
+    "main.e346aab5.js.map": "/BoxStateChallenge/static/js/main.e346aab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.814f8fb0.css",
+    "static/js/main.e346aab5.js"
+  ]
+}
